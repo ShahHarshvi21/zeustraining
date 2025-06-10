@@ -1,0 +1,55 @@
+body{
+    background-color: #ffffcc;
+}
+.container{
+    margin: 10px;
+    font-family: sans-serif;
+}
+.header{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(139, 16, 16);
+    text-align: center;
+    letter-spacing: 20px; 
+    font-style: italic;
+}
+/* .header_line{
+    height:20px;
+    background-color: red;
+} */
+
+h3{
+    background-color: green;
+    color: white;
+    padding: 10px;
+
+}
+b{
+    text-transform: uppercase;
+    font-style: italic;
+}
+ul{
+    color: brown;
+    font-style: italic;
+}
+h4{
+    color: grey;
+}
+.zeus_link_1{
+    color:blueviolet;
+    text-decoration: none;
+}
+
+table,td,tr{
+    background-color: rgb(146, 143, 143);
+    border: 1px solid;
+}
+.heading{
+    border-bottom: 20px solid red;
+}
+.google_image{
+    border:2px dashed grey;
+    height:50px;
+    width: 150px;
+}
