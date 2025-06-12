@@ -27,6 +27,9 @@ function f1(){
         console(gender.value);
     } else {
         alert("Enter gender");
+        const radioInput=document.getElementById('show');
+        radioInput.innerText="Please enter your gender";
+        document.querySelector('input[name="gender"]').focus();
         return false;
     }
     return true;
